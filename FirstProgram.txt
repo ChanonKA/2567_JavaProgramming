@@ -1,0 +1,20 @@
+public class Firstprogram
+{
+       public static void main(String[] args)
+       {
+          System.out.println("studentId: 2413110939" +
+                             "\nstudentName: Chanon Kanuson " +
+                             "\nTopic: gitHub" +
+                             "\nDate: 11/20/2024" );
+                             
+          JoptionPane.showmessagedialog(null,
+                                        "studentId:2413110939" +
+                                        "\nstudentname:Chanon Kanuson" +
+                                        "\nTopic:github" +
+                                        "\nDate:11/20/2024"
+        }
+}
+                                       
+
+
+
