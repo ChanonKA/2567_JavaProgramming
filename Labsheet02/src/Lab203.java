@@ -11,7 +11,7 @@ public final class Lab203 {
 		if(bmi<18.5) {
 			
 		}
-        if(bmi>=18.5&&bmi<=24.9) {
+		else if(bmi>=18.5&&bmi<=24.9) {
 			
 		}
 		
