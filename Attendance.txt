@@ -1,4 +1,4 @@
 studentId:2413110939
 studentName:Chanon Kanuson
-Topic: Method
-Date:12/18/2024
+Topic: Class and object
+Date:1/15/2568
