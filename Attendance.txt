@@ -1,4 +1,4 @@
 studentId:2413110939
 studentName:Chanon Kanuson
-Topic: Class and object
-Date:1/15/2568
+Topic: Encapsulation Concept
+Date:1/22/2568
