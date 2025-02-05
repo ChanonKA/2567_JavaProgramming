@@ -1,4 +1,4 @@
 studentId:2413110939
 studentName:Chanon Kanuson
-Topic: Encapsulation Concept
-Date:1/22/2568
+Topic: Inheritance Concept
+Date:2/05/2568
