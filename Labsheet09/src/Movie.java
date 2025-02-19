@@ -1,4 +1,3 @@
-
 public class Movie {
 	private String id;
 	private String name;
@@ -11,7 +10,7 @@ public class Movie {
 		
 	}
 	Movie(){
-	  this(null,null,null);
+	  
 	}
 	public String getId() {
 		return this.id;
@@ -22,6 +21,17 @@ public class Movie {
 	public Director getDirector() {
 		return this.director;
 	}
-	public 
+	public void setDirector(Director director) {
+		this.director= director;
+	}
+	public String toString() {
+		return String.format("%s %s direct by %s", this.getId(), this.getName(), this.getDirector());
+	}
+	
+	
+	
+	
+	
+	
 
 }
