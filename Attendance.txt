@@ -1,4 +1,4 @@
 studentId:2413110939
 studentName:Chanon Kanuson
-Topic: Inheritance Concept
-Date:2/05/2568
+Topic: Inheritance Concept&Abstrach and interface
+Date:2/19/2568
